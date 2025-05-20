@@ -6,6 +6,7 @@ Kelas: 2A
 Program Studi: Bisnis Digital 
 Uts: Dasar Algoritma dan Pemograman
 
+# Studi Kasus: Faktorial dengan Fungsi Rekursif
 # Alur Pengerjaan Fungsi Rekursif Menghitung Faktorial:
 1. Buat fungsi faktorial yang menerima 1 parameter bilangan.
 2. Gunakan kondisi dasar saat bilangan 0 atau 1.
@@ -22,3 +23,7 @@ Uts: Dasar Algoritma dan Pemograman
 
 # Penjelasan:
 Manfaat fungsi mempermudah pemrograman modular, memudahkan pemeliharaan, dan memungkinkan penggunaan ulang kode. Dan rekursi bekerja dengan memamggil dirinya sendiri sehingga mencapai kondisi dasar (base case). Jika dalam kasus faktorial, maka:       n! = n x (n-1)! dan 1! = 1.
+
+# Studi Kasus: Input Nilai 5 Siswa dan Cari Nilai Tertinggi
+# Penjelasan:
+Array (list) digunakan untuk menyimpan nilai dari tiap siswa dalam satu variabel, sedangkan perulangan (for) digunakan menginput banyak data secara efisien dan melakukan pengecekan secara otomatis.
