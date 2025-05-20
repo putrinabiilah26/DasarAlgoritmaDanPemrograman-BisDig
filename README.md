@@ -21,9 +21,14 @@ Uts: Dasar Algoritma dan Pemograman
 4. angka = int(input(...)) untuk menerima input dari pengguna dan mengubahnya ke tipe integer.
 5. hasil = faktorial(angka) untuk menyimpan hasil perhitungan dari fungsi ke variabel hasil.
 
-# Penjelasan:
-Manfaat fungsi mempermudah pemrograman modular, memudahkan pemeliharaan, dan memungkinkan penggunaan ulang kode. Dan rekursi bekerja dengan memamggil dirinya sendiri sehingga mencapai kondisi dasar (base case). Jika dalam kasus faktorial, maka:       n! = n x (n-1)! dan 1! = 1.
+# Jawaban:
+Manfaat fungsi mempermudah pemrograman modular, memudahkan pemeliharaan, dan memungkinkan penggunaan ulang kode. Dan rekursi bekerja dengan memanggil dirinya sendiri sehingga mencapai kondisi dasar (base case). Jika dalam kasus faktorial, maka:       n! = n x (n-1)! dan 1! = 1.
 
 # Studi Kasus: Input Nilai 5 Siswa dan Cari Nilai Tertinggi
-# Penjelasan:
+# Jawaban:
 Array (list) digunakan untuk menyimpan nilai dari tiap siswa dalam satu variabel, sedangkan perulangan (for) digunakan menginput banyak data secara efisien dan melakukan pengecekan secara otomatis.
+
+# Studi Kasus: Sistem Diskon pada E-commerce
+# Jawaban:
+Struktur kontrol percabangan (if) digunakan untuk menentukan apakah pelanggan mendapatkan diskon berdasarkan nilai total belanja. Jika syarat terpenuhi, maka diskon diberikan.
+
