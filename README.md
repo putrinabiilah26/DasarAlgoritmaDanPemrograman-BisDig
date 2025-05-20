@@ -32,3 +32,14 @@ Array (list) digunakan untuk menyimpan nilai dari tiap siswa dalam satu variabel
 # Jawaban:
 Struktur kontrol percabangan (if) digunakan untuk menentukan apakah pelanggan mendapatkan diskon berdasarkan nilai total belanja. Jika syarat terpenuhi, maka diskon diberikan.
 
+# Studi Kasus: Kasir Menghitung Total 3 Barang
+# Jawaban:
+Langkah-langkah algoritma dalam menghitung total harga pembelian:
+1. Minta input harga untuk 3 barang dari pengguna.
+2. Simpan tiap harga dalam variabel.
+3. Tambahkan ketiga harga untuk mendapatkan total pembayaran.
+4. Tampilkan total pembayaran kepada pengguna.
+
+# Studi Kasus: Menentukan Lulus dari Rata-rata 3 Nilai
+# Jawaban:
+Tipe data float digunakan untuk menyimpan nilai yang memiliki desimal. Operator + digunakan untuk menjumlahkan nilai, dan operator / digunakan untuk menghitung rata-rata. Operasi perbandingan >= digunakan untuk mengecek apakah nilai rata-rata memenuhi syarat kelulusan.
